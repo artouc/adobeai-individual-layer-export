@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Adobe Illustrator
+*.ai
+*.eps
+*.pdf
+*.svg
+
+# 一時ファイル
+*.tmp
+*.temp
+*.bak
+*~
+
+# ログファイル
+*.log
+
+# 書き出しテスト用フォルダ
+/export_test/
+/test_output/
+
+# IDE / エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# その他
+node_modules/
+.env
