@@ -10,6 +10,9 @@ Adobe Illustratorにおいて、レイヤーを個別にPNG書き出しできる
 ### saveDefaultPNGByIndividualLayer.jsx
 各レイヤーを個別に通常サイズのPNGファイルとして書き出します。
 
+### saveDefaultPNGByIndividualAndVisibleLayers.jsx
+**現在表示されている**各レイヤーを個別に通常サイズのPNGファイルとして書き出します。
+
 ## 使用方法
 
 1. Adobe Illustratorでファイルを開きます
